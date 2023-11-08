@@ -1,1 +1,4 @@
+我们可以进一步编辑我们的代码，如下所示：
 
+# Ask the user for their name
+name = input("What's your name? ")
